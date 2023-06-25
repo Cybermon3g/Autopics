@@ -7,8 +7,8 @@ from telethon.network.connection.tcpabridged import ConnectionTcpAbridged
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.INFO)
 
-API_ID = int(environ.get("API_ID", "15762061"))
-API_HASH = environ.get("API_HASH", "364d3fa8f95aae815d62cf981ab1afe3")
+API_ID = int(environ.get("API_ID", "28915632"))
+API_HASH = environ.get("API_HASH", "19b37f365054be433a4d75e949ffde39")
 SESSION = environ.get("1BVtsOGwBu2svQmlU-q2e-EJ9gNLYCAdUHwBc788_KZQZFlSStYfwwxQ_oy0z79d3laJi8QJ8p_D2xpa4xNogl36dRsd8tB0omlavAFlCbuxySTOzWkWmBQYbCaXs7hLygOq-j0NqqCXur_YxCumfgdE5cSB5d5sB7rlL3i7s1eRo-Uk_7fqcyfyffHe3uTxzP946QOzjrbdWA86ZmmTwEEI200EKl89_x31Zz6-Da80VlmbREUt2Qyet97XszWRGIRRlRyJ4liZJ-FegiWCT07aSig5npzwo_E3YrciCiigL_IaNJ4Ivyqy9xJLnpIjUq-dUUX6ZIiZ5HCCTQCbuLcUeEThDDcg=")
 TIME = int(environ.get("TIME", "60"))
 CHANNEL_ID = int(environ.get("CHANNEL_ID", "-1001900598149"))
