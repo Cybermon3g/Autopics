@@ -24,7 +24,7 @@ Telegram User Bot To Change Profile Pics Automatically After A Specified Time Wr
 ### Installation
 #### Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/git-itsjoel/AutoPicX)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Cybermon3g/Autopics)</br>
 
 #### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/WACW1t?referralCode=ZSWmf0)
